@@ -10,8 +10,10 @@ fun main(args : Array<String>){
     println(MyDecimal)
 
 
-    val myNameIs : String               //Mutable mean can be change
+    var myNameIs : String               //Mutable mean can be change
     myNameIs = "Krishna"
+    println(myNameIs)
+    myNameIs = "vamsi"
 
     println(myNameIs)
 
