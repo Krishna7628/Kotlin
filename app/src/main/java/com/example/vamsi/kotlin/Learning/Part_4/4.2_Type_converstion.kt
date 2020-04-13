@@ -32,13 +32,13 @@ fun main(args : Array<String>){
     val n1 = 97.567                    // Double
 
     val nn2 : Int = n1.toInt()   // Int
-    println ("Long value is $nn2")
+    println ("Int value is $nn2")
 
     val n2 : Long = n1.toLong()   // Long
     println ("Long value is $n2")
 
     val n3 : Float = n1.toFloat()   // float
-    println ("Long value is $n3")
+    println ("Float value is $n3")
 
     val n5 : Byte = n1.toByte()   // Byte
     println ("Byte value is $n5")
