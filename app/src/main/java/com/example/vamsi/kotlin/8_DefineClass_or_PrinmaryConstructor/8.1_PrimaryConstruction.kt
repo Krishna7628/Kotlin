@@ -34,7 +34,7 @@ fun main(args: Array<String>) {
         customer.name
 }
 
-class Customer(var name: String) {
+class Customer(var name: String) {  //---------> in short cut --
     init {
         print("name is $name")
     }
