@@ -5,7 +5,7 @@ package com.example.vamsi.kotlin.`9_1`.HighLevelFunctionsAndLambdas
 fun main(args: Array<String>) {
     val test1 = Test1()
     test1.revrseAndDisplay("hello", { s -> s.reversed() })
-    // using it keyword having sing parameter in lambda
+    // using it keyword having single parameter in lambda
     test1.revrseAndDisplay("helloWord", { it.reversed() })
 }
 

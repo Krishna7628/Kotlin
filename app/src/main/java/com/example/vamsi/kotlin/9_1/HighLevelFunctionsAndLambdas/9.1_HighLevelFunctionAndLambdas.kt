@@ -34,7 +34,7 @@ fun main(args: Array<String>) {
     // or
     val myLambdas: (Int) -> Unit = { s: Int -> println(s) }
 
-    program.addTwoNumbers(3, 6, myLambda)
+    program.addTwoNumbers(3, 6, myLambdas)
 }
 
 class Program {
