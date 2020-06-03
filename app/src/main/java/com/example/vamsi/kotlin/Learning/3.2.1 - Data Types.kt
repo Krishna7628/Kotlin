@@ -1,5 +1,16 @@
 package com.example.vamsi.kotlin.Learning
 
+/*
+*  Byte -- > 8 bit  --> 1 byte
+*  Short --> 16 bit  --> 2 byte
+*  Integer --> 32bit --> 4 byte
+*  Long --> 64 bit  --> 8 byte
+*  Float --> 32 bit --> 4 byte
+*  Double --> 64 bit --> 8 byte
+*  char  --> 16 bit  --> 2 byte
+*  Boolean -- > 8 bit  --> 1 byte  */
+
+
 
 fun main(args: Array<String>) {
     val a = 10000

@@ -40,7 +40,6 @@ fun main(args: Array<String>) {
 
 
 /* Logical Operator */ //--> &&, ||, !
-
     val a3 = 10
     val b3 = 5
     val c = 15
@@ -52,8 +51,4 @@ fun main(args: Array<String>) {
     println("(a>b3) || (a3>c) :" + result)  // true
     result = !flag
     println("!flag :" + result)  // true
-
-
-
-
 }

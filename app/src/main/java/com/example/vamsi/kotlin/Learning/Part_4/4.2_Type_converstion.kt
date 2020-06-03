@@ -34,6 +34,8 @@ fun main(args : Array<String>){
     val nn2 : Int = n1.toInt()   // Int
     println ("Int value is $nn2")
 
+
+
     val n2 : Long = n1.toLong()   // Long
     println ("Long value is $n2")
 
